@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BhartTechIT/static/css/main.f3868522.css",
-    "main.js": "/BhartTechIT/static/js/main.661e06fe.js",
-    "static/js/453.98bb53cb.chunk.js": "/BhartTechIT/static/js/453.98bb53cb.chunk.js",
-    "static/media/vvv.jpg": "/BhartTechIT/static/media/vvv.777959af006ef7f159de.jpg",
-    "index.html": "/BhartTechIT/index.html",
-    "main.f3868522.css.map": "/BhartTechIT/static/css/main.f3868522.css.map",
-    "main.661e06fe.js.map": "/BhartTechIT/static/js/main.661e06fe.js.map",
-    "453.98bb53cb.chunk.js.map": "/BhartTechIT/static/js/453.98bb53cb.chunk.js.map"
+    "main.css": "/static/css/main.5b4b8e4a.css",
+    "main.js": "/static/js/main.4307b8b6.js",
+    "static/js/453.98bb53cb.chunk.js": "/static/js/453.98bb53cb.chunk.js",
+    "static/media/vvv.jpg": "/static/media/vvv.777959af006ef7f159de.jpg",
+    "index.html": "/index.html",
+    "main.5b4b8e4a.css.map": "/static/css/main.5b4b8e4a.css.map",
+    "main.4307b8b6.js.map": "/static/js/main.4307b8b6.js.map",
+    "453.98bb53cb.chunk.js.map": "/static/js/453.98bb53cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3868522.css",
-    "static/js/main.661e06fe.js"
+    "static/css/main.5b4b8e4a.css",
+    "static/js/main.4307b8b6.js"
   ]
 }
